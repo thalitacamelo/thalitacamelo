@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Thalita Ferreira
 
-As a Bioinformatician and Software Developer, I blend the intricacies of biology with the precision of technology. With a focus on web application development, I navigate both frontend and backend landscapes, driven by a quest to unlock the potential of genetic data.
+As a Bioinformatician and Software Developer, I work at the intersection of biology and technology. With a focus on web application development, I navigate both frontend and backend landscapes, driven by a quest to unlock the potential of genetic data.
 
 ---
 
