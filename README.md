@@ -8,7 +8,7 @@ I work at the intersection of biology and technology, leveraging my expertise in
 ### 🚀 Current Projects
 I am currently engaged in a multiomic analysis project focused on hematopoietic stem cells (HSC). This work not only challenges my technical abilities but also deepens my passion for computational biology and its potential to transform biological research.
 
-Recently, I developed **[VAriact](https://variact.app)**, a client-based, user-friendly app for genetic variant classification using ACMG guidelines (2015) and Tavtigian's Bayesian framework (2018). Built with HTML, TypeScript, and Tailwind CSS.
+Recently, I developed **[VariACT](https://variact.app)**, a client-based, user-friendly app for genetic variant classification using ACMG guidelines (2015) and Tavtigian's Bayesian framework (2018). Built with HTML, TypeScript, and Tailwind CSS.
 
 ---
 
